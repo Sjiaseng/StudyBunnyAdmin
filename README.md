@@ -119,4 +119,6 @@ adb install your-path/to/app-release.apk
 
 2. Drag your .apk file into the Emulator and Start Installation.
 
+<br>
+
 # UI Showcase
