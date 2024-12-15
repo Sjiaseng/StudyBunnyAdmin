@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "669514170550",
+    "firebase_url": "https://studybunnies-7967a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "studybunnies-7967a",
+    "storage_bucket": "studybunnies-7967a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669514170550:android:45415d8f6397ce542ca617",
+        "android_client_info": {
+          "package_name": "com.example.studybunnies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC79cCkq8S4XA-NA2HQe6NmaqQCz3aDSE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
