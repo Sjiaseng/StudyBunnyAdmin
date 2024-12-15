@@ -111,8 +111,6 @@ flutter build apk
 adb install your-path/to/app-release.apk
 ```
 
-# UI Showcase
-
 <br>
 
 **Emulator Like BlueStacks:**
@@ -120,3 +118,5 @@ adb install your-path/to/app-release.apk
 1. Locate ur .apk file.
 
 2. Drag your .apk file into the Emulator and Start Installation.
+
+# UI Showcase
