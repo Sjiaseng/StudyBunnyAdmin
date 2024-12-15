@@ -128,7 +128,7 @@ adb install your-path/to/app-release.apk
 
 <img src="docs/color.png" width="400" height="200" /> 
 
-**UI**
+**UI:**
 
 <img src="docs/splash.png" width="175" height="375" /> <img src="docs/loading.png" width="175" height="375" /> <img src="docs/login.png" width="175" height="375" /> <img src="docs/dashboard.png" width="175" height="375" /> <img src="docs/drawer.png" width="175" height="375" /> <img src="docs/timetable.png" width="175" height="375" /> <img src="docs/edittimetable.png" width="175" height="375" /> <img src="docs/users.png" width="175" height="375" /> <img src="docs/class.png" width="175" height="375" /> <img src="docs/comment.png" width="175" height="375" /> <img src="docs/classmanage.png" width="175" height="375" /> <img src="docs/catalogue.png" width="175" height="375" /> <img src="docs/gift.png" width="175" height="375" /> <img src="docs/gifthistory.png" width="175" height="375" /> <img src="docs/feedback.png" width="175" height="375" /> <img src="docs/profile.png" width="175" height="375" /> <img src="docs/faq.png" width="175" height="375" /> 
 
